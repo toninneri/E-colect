@@ -1,0 +1,14 @@
+{
+   "name": "Mercado Seu Zé",
+   "email": "contato@Norte.com.br",
+   "whatsapp": "87999999999" ,
+	 "latitude": "7.5766",
+   "longitude":"40.4976",
+   "city": "Araripina",
+   "uf": "PE", 
+   "items": [
+		 1, 
+		 2, 
+		 6
+	 ]
+}
