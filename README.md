@@ -219,7 +219,7 @@ Then, after your merge in your pull request be done, you can delete your branch.
 - [Celebrate](https://github.com/arb/celebrate)
 - [Joi](https://hapi.dev/module/joi/)
 
-## **:page_with_curl: LICENÇA**
+## **:page_with_curl: LICENSE**
 
 This repository is licensed by  **MIT LICENSE**.  For more detailed information, read the [LICENSE] file (./ LICENSE) contained in this repository.
 
