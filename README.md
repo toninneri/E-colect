@@ -14,7 +14,6 @@
 ♻️ E-coleta is an **Open Source** project developed in **[Rocketseat's][rocketseat_site]** **Next Level Week (1.0** using TypeScript, Node, React and React Native technologies.
 </h3>
 
-![Banner](https://user-images.githubusercontent.com/38081852/84095189-04178580-a9d5-11ea-9496-9ec6f6a282e5.png)
 
 ## **:rocket: OBJECTIVE**
 
@@ -53,7 +52,7 @@ The project aims to ** establish a connection **between** companies and / or ent
   - **[Celebrate][celebrate]**
   - **[Joi][joi]**
 
-  \* Veja o arquivo <kbd>[package.json](./sources/server/package.json)</kbd>
+  \* See the file <kbd>[package.json](./sources/server/package.json)</kbd>
 
 #### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
 
@@ -67,7 +66,7 @@ The project aims to ** establish a connection **between** companies and / or ent
   - **[Expo Location][expo_location]**
   - **[Expo Mail Composer][expo_mail_composer]**
 
-  \* Veja o arquivo <kbd>[package.json](./sources/mobile/package.json)</kbd>
+  \* See the file <kbd>[package.json](./sources/mobile/package.json)</kbd>
 
 #### **Utilitários**
 
